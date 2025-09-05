@@ -1,0 +1,19 @@
+{
+ "name": "fsassist",
+ "version": "1.0.0",
+  "description": "A simple file system helper utility for Node.js with recursive search and safe write.",
+  "main": "index.js",
+  "keywords": ["filesystem", "fs", "nodejs", "file", "helper", "utils"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puneet0911/fsassist.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
